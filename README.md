@@ -6,9 +6,9 @@
 **Plugin URL:**  [https://eskim.pl/snake-retro-game-shortcode-en/](https://eskim.pl/snake-retro-game-shortcode-en/)  
 **Tags:** snake, game, retro, classic, arcade  
 **Requires at least:** WordPress 5.0  
-**Tested up to:** WordPress 6.8  
+**Tested up to:** WordPress 6.8.1  
 **Requires PHP:** 7.0  
-**Stable tag:** 1.1.0  
+**Stable tag:** 1.2.1  
 **License:** GPLv2 or later  
 **License URI:** [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html)  
 **Donate link:** [https://buymeacoffee.com/eskim](https://buymeacoffee.com/eskim)
