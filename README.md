@@ -1,5 +1,8 @@
 # Snake Retro Game Shortcode by Eskim
 
+[![WordPress Plugin](https://img.shields.io/wordpress/plugin/v/snake-retro-game-shortcode-by-eskim.svg)](https://wordpress.org/plugins/snake-retro-game-shortcode-by-eskim/)
+[![License](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+
 **Plugin URL:**  [https://eskim.pl/snake-retro-game-shortcode-en/](https://eskim.pl/snake-retro-game-shortcode-en/)  
 **Tags:** snake, game, retro, classic, arcade  
 **Requires at least:** WordPress 5.0  
